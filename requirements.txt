@@ -1,0 +1,14 @@
+playwright==1.40.0
+rich==13.7.0
+aiohttp==3.9.1
+httpx==0.25.2
+fake-useragent==1.4.0
+asyncio
+logging
+datetime
+concurrent.futures
+urllib.parse
+json
+os
+time
+random
